@@ -1,5 +1,6 @@
-#WOR
-##made by JiHoon using python and pygame
+# WOR
+
+## made by JiHoon using python and pygame
 
 
 
