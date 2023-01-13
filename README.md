@@ -24,7 +24,7 @@ Screenshots<br>
 - Sprites:<br>
   Sorthen from itch.io<br>
     Pack 1: <https://sorthen.itch.io/lord-of-the-rings-is-better-than-harry-potter-lol><br>
-    Pack 2: https://sorthen.itch.io/lord-of-the-rings-pack-2<br>
+    Pack 2: https://sorthen.itch.io/lord-of-the-rings-pack-2<br><br>
 - Codes inspired by<br>
   ShawCode from Youtube<br>
     Videos: <https://youtube.com/playlist?list=PLkkm3wcQHjT7gn81Wn-e78cAyhwBW3FIc>
